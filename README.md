@@ -5,8 +5,21 @@
 <br>
 <br>
 
-# 💫 About Me:
-I'm passionate about server-side development🗄️<br>I'm currently exploring more on building AI Agents 🤖
+<p align="center">
+  <a href="https://github.com/abhishekpd01">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abhishek" alt="Hello! I&#39;m Abhishek" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=595&height=44&lines=I%20am%20a%20Backend%20Developer;Leveraging%20AI%20and%20Systems%20Integration" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
+
+Software developer focused on clean APIs, web development, and constant learning.
+
+💬 &nbsp;Ask me about **Node.js, RAG, LLM, Backend Engineering**
 
 <br>
 <br>
@@ -65,10 +78,27 @@ I'm passionate about server-side development🗄️<br>I'm currently exploring m
 
 <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abhishekpd01&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abhishekpd01&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpd01&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhishekpd01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/abhishekpd01">abhishekpd01</a></i></p>
